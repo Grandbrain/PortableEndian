@@ -6,7 +6,7 @@
 
 # Welcome to PortableEndian project!
 
-[PortableEndian](https://github.com/Grandbrain/PortableEndian) is a set of macros to manipulate byte order. This file include macros to help write portable code to convert data between big-endian and little-endian platforms. The file can be used with the most C/C++ compilers in most operating systems.
+[PortableEndian](https://github.com/Grandbrain/PortableEndian) is a set of macros to convert the byte encoding of integer values. This file include macros to help write portable code to convert data between big-endian and little-endian platforms. The file can be used with the most C/C++ compilers in most operating systems.
 
 ## Contribute
 
